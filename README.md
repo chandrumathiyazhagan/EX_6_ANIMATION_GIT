@@ -35,8 +35,7 @@ RegisterNumber: 212222230026
 ## MainActivity.java:
 
 ```java
-package com.example.ex6;
-
+package com.example.animation;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -281,7 +280,7 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 
-## animation.xml:
+## myanimation.xml:
 
 ```java
 <?xml version="1.0" encoding="utf-8"?>
